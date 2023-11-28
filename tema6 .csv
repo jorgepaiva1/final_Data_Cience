@@ -1,0 +1,11 @@
+Variable A,Variable B,Variable C,Variable D,Variable E
+Cat1,25,NaN,"10,5",CatA
+Cat2,NaN,18,"15,5",CatB
+Cat1,30,NaN,NaN,CatA
+Cat3,NaN,NaN,"20,8",CatB
+Cat2,22,15,12,NaN
+Cat3,28,NaN,"18,6",CatA
+NaN,35,20,NaN,CatB
+Cat1,NaN,25,"14,3",CatA
+Cat2,31,NaN,"22,1",NaN
+Cat3,29,NaN,"19,4",CatB
